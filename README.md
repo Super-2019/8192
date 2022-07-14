@@ -1,6 +1,6 @@
-# 4096
+# 8192
 
-4096 is a fork of the popular [2048](http://gabrielecirulli.github.io/2048/) game with the following key differences:
+8192 is a fork of the popular [2048](http://gabrielecirulli.github.io/2048/) game with the following key differences:
 
  * the goal is to get to the *4096* tile
  * the grid is *5x5*
